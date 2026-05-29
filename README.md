@@ -1,6 +1,8 @@
 # DineQR — Smart QR Restaurant Menu System
 <img width="1906" height="873" alt="image" src="https://github.com/user-attachments/assets/6885518b-84cd-4d54-bf77-516eeb954116" />
 
+<img width="899" height="617" alt="image" src="https://github.com/user-attachments/assets/765f3d70-6a4c-407a-8a64-7b9f37c3d536" />
+
 
 DineQR is a complete, full-stack, production-ready digital dining platform designed to replace traditional printed menu cards with a contactless, mobile-first QR menu. 
 
